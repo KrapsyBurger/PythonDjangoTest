@@ -2,3 +2,4 @@ To launch and this project, you need to install :
 Python = 3.10.1
 Django = 4.2.7
 WikipediaAPI installed
+An API client testing tool such as Insomnia, Katalon HTTPie...
