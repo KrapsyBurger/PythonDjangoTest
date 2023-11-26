@@ -25,7 +25,9 @@ def wikipedia_summary_fetch(title, email):
 				from_email = 'OOTITest@gmail.com'
 				recipient_list = [email]
 				send_mail(subject, message, from_email, recipient_list)
-			return 'An email has been sent to ' + email
+				return 'An email has been sent to ' + email
+			return 'This page doesnt have that much big words :('
+
 		
 		return 'This page doesnt seem to exist :/'
 	except Exception as e:
