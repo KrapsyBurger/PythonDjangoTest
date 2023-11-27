@@ -1,4 +1,4 @@
-Hi and welcome to the OOTI wiki test.
+Hi and welcome to my python wiki test.
 
 To launch this test, make sure you have everything in the requirements.txt installed on your computer.
 If so, just do `python3 manage.py runserver` in your terminal and press <kbd>Enter</kbd>.
